@@ -1,1 +1,1 @@
-# Production-and-Operations-Management-Training
+# Production and Operations Management Training
